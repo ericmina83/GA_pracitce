@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adb3ad4c9c5200f4692b0b71b151dc6f
+timeCreated: 1491433945
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - linePrefab: {fileID: 150932, guid: 47c14e7be53f74a76b9ab3f85000eb41, type: 2}
+  - StaticLines: {fileID: 166912, guid: 7517268165d36423eba17fe3d148eac0, type: 2}
+  - DynamicLines: {fileID: 181938, guid: 7517268165d36423eba17fe3d148eac0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
